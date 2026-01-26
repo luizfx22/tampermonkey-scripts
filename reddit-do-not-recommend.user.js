@@ -125,10 +125,7 @@
         for (const post of posts) {
             if (!post.hasAttribute("recommendation-source")) continue;
 
-            // Remove o post recomendado
             post.remove();
-
-            // Remove HRs consecutivos ao redor
             cleanupHrSiblings(post);
 
             removedCount++;

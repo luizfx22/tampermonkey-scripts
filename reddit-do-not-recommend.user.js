@@ -1,12 +1,16 @@
 // ==UserScript==
 // @name         Reddit do not recommend
-// @namespace    luizfx22
+// @namespace    https://github.com/luizfx22/tampermonkey-scripts
 // @version      2026-01-26
 // @description  Removes recommended posts of Reddit
 // @author       You
 // @match        https://www.reddit.com/?feed=home
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
+// @homepage     https://github.com/luizfx22/tampermonkey-scripts
+// @homepageUrl  https://github.com/luizfx22/tampermonkey-scripts
+// @downloadUrl  https://github.com/luizfx22/tampermonkey-scripts/blob/master/reddit-do-not-recommend.user.js
+// @updateUrl    https://github.com/luizfx22/tampermonkey-scripts/blob/master/reddit-do-not-recommend.user.js
 // ==/UserScript==
 
 (function() {

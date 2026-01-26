@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Reddit do not recommend
 // @namespace    https://github.com/luizfx22/tampermonkey-scripts
-// @version      2026-01-26
+// @version      0.0.2
 // @description  Removes the annoying recommended posts of Reddit
 // @author       luizfx22
 // @match        https://www.reddit.com/?feed=home

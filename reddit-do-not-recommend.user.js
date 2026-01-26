@@ -3,7 +3,7 @@
 // @namespace    https://github.com/luizfx22/tampermonkey-scripts
 // @version      2026-01-26
 // @description  Removes the annoying recommended posts of Reddit
-// @author       You
+// @author       luizfx22
 // @match        https://www.reddit.com/?feed=home
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
